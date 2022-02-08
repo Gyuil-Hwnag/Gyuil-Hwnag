@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gyuil-Hwnag
-- 👀 I’m interested in AOS(Kotlin & Java), iOS(Swift), Server(Spring Boot & MySQL)
+- 👀 I’m interested in Android(Kotlin & Java), iOS(Swift), Server(Spring Boot & MySQL)
 - 🌱 I’m currently learning iOS(Swift) & Android MVVM
 
 <!---
