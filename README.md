@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gyuil-Hwnag
 - 👀 I’m interested in Android(Kotlin), iOS(Swift), Server(Spring Boot & MySQL)
 - 🌱 I’m currently learning 
-- Android (Kotlin) :  MVVM, Koin(Di) -> Hilt, Rxjava -> Coroutine Flow, Compose, Jetpack Navigation, Socket, Map Path Algorithm, MVI
+- Android (Kotlin) :  MVVM, Koin(Di) -> Hilt, LiveData, Rx -> Coroutine Flow, Compose, Jetpack Navigation, Socket, Map Path Algorithm, MVI
 - iOS (Swift)
 - Server (Spring Boot) -> Batch, Web Socket
 - Data (Python) -> NLP, Data modeling, Text Summarization
