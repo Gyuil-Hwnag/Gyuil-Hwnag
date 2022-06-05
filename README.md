@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Gyuil-Hwnag
 - 👀 I’m interested in Android(Kotlin), iOS(Swift), Server(Spring Boot & MySQL)
 - 🌱 I’m currently learning 
-- Android (Kotlin) :  MVVM, Koin(Di) -> Hilt, LiveData & Rx -> Coroutine Flow, Compose, Jetpack Navigation, Socket, Map Path Algorithm, MVI
-- iOS (Swift)
-- Server (Spring Boot) -> Batch, Web Socket
-- Data (Python) -> NLP, Data modeling, Text Summarization
+1. Android (Kotlin) :  MVVM, Koin(Di) -> Hilt, LiveData & Rx -> Coroutine Flow, Compose, Jetpack Navigation, Socket, Map Path Algorithm, MVI
+2. iOS (Swift)
+3. Server (Spring Boot) -> Batch, Web Socket
+4. Data (Python) -> NLP, Data modeling, Text Summarization
 
 - Activities
 1. Topping (Android Developer) Link : https://play.google.com/store/apps/details?id=com.tintin.topping.kotlin <- Shorts Streaming APP
