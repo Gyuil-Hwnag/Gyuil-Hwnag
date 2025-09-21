@@ -7,7 +7,7 @@
 4. Data (Python) -> NLP, Data modeling, Text Summarization
 
 #### Career
-- InterparkTriple (2024.07 - ing) : Triple, Triple Korea Android Developer
+- InterparkTriple -> Nol Universe (2024.07 - ing) : Triple, Triple Korea Android Developer
 - Wyatt (2022.09 - 2024.06) : Kakaohairshop, Kakaohairshop for Designer, Hairzzang Android Developer
 
 #### Activities
